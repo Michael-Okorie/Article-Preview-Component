@@ -36,7 +36,7 @@ Users should be able to:
 ### 🔗 Links
 
 - **Solution**: [View my code on GitHub](https://github.com/Michael-Okorie/Article-Preview-Component.git)
-- **Live Site**: [Check it out live](https://your-live-site-url.com)
+- **Live Site**: [Check it out live](https://michael-okorie.github.io/Article-Preview-Component/)
 
 ---
 
@@ -87,7 +87,7 @@ shareIcon.addEventListener('click', () => {
 ### Author
 
 - **Github** – [Michael-Okorie](https://github.com/Michael-Okorie)
-- **Frontend Mentor** – [@Dev-Michael](https://www.frontendmentor.io/profile/Michael-Okorie)
+- **Frontend Mentor** – [@Michael Okorie](https://www.frontendmentor.io/profile/Michael-Okorie)
 - **Twitter** – [@Dev_Michael_](https://x.com/Dev_Michael_)
 
 ---
